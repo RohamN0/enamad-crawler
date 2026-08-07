@@ -1,0 +1,6 @@
+opencv-python
+ddddocr
+pillow
+pandas
+numpy
+scipy

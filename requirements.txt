@@ -1,0 +1,7 @@
+opencv-python
+requests
+ddddocr
+pillow
+pandas
+numpy
+scipy

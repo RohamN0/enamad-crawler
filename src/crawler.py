@@ -1,4 +1,4 @@
-from captcha_solver import CaptchaSolver
+from src.captcha_solver import CaptchaSolver
 from urllib.parse import urlparse
 import pandas as pd
 import requests, base64, json, time

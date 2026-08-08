@@ -1,4 +1,4 @@
-from crawler import EnamadCrawler
+from src.crawler import EnamadCrawler
 
 urls = ['https://enamad.ir/DomainListForMIMT', 'https://enamad.ir/DomainListForMIMTSuspend']
 enamad = EnamadCrawler(urls, page_numbers=4, time_sleep=10)

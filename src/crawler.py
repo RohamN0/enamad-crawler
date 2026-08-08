@@ -122,7 +122,7 @@ class EnamadCrawler:
             new_frames.append(df[self.columns])
 
         if self.db_path and os.path.exists(self.db_path):
-            existing_df = pd.read_csv(self.db_path)
+            existing_df = pd.read_csv(self.db_path, index_col=0)
             if new_frames:
                 combined_df = pd.concat([existing_df] + new_frames, ignore_index=True)
             else:

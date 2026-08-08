@@ -1,93 +1,61 @@
-,Unnamed: 0,type,domain_address,persian_name,province,city,rating,approve_date,expire_date,is_expiration_close
-28,58.0,DomainListForMIMT,honarestanenoor.ir,هنرستان نور,خراسان شمالی,بجنورد,0,1405/05/11,1406/05/11,False
-29,59.0,DomainListForMIMT,liro.shop,لیروشاپ,,,1,1405/05/13,1407/05/13,False
-90,,DomainListForMIMT,romnemishe.ir,روم نمیشه,,,0,,,False
-91,,DomainListForMIMT,fatemidiamond.ir,فروشگاه فاطمی دایموند,تهران,تهران,0,1405/05/17,1406/05/17,False
-92,,DomainListForMIMT,baftiino.ir,مهدی,اصفهان,برخوار,0,1405/05/17,1406/05/17,False
-93,,DomainListForMIMT,dordoonak.ir,دُردونک,مرکزی,محلات,0,1405/05/17,1406/05/17,False
-94,,DomainListForMIMT,poshakehejrat.ir,پوشاک مردانه هجرت,تهران,تهران,0,1405/05/16,1406/05/16,False
-95,,DomainListForMIMT,tibara.ir,تیبارا,تهران,تهران,0,1405/05/16,1406/05/16,False
-96,,DomainListForMIMT,dokalam.com,دوکلام,خوزستان,دزفول,1,1405/05/16,1407/05/16,False
-97,,DomainListForMIMT,sotitasviriava.ir,صوتی تصویری آوا,قم,قم,0,1405/05/16,1406/05/16,False
-98,,DomainListForMIMT,vcnfc.com,کارت ویزیت دیجیتال,تهران,تهران,1,1405/05/16,1407/05/16,False
-99,,DomainListForMIMT,ecusara.ir,ایسیو سرا,تهران,تهران,0,1405/05/15,1406/05/15,False
-100,,DomainListForMIMT,fasasmokemarket.ir,دود مارکت,فارس,فسا,0,1405/05/15,1406/05/15,False
-101,,DomainListForMIMT,ishowshop.ir,آیشو,خوزستان,اهواز,0,1405/05/15,1406/05/15,False
-102,,DomainListForMIMT,datispet.ir,داتیس پت,تهران,شهریار,0,1405/05/15,1406/05/15,False
-103,,DomainListForMIMT,kalamansi.ir,کالامانسی,اصفهان,اصفهان,0,1405/05/15,1406/05/15,False
-104,,DomainListForMIMT,nourgold.ir,نور گلد گالری,مازندران,بابلسر,0,1405/05/15,1406/05/15,False
-105,,DomainListForMIMT,paraphbeauty.ir,پاراف بیوتی,تهران,تهران,0,1405/05/15,1406/05/15,False
-106,,DomainListForMIMT,lumage.ir,لوماژ,آذربایجان شرقی,تبریز,0,1405/05/13,1406/05/13,False
-107,,DomainListForMIMT,ostadi-kharati.ir,خراطی استادی,اصفهان,خمینی شهر,0,1405/05/16,1406/05/16,False
-108,,DomainListForMIMT,raminleather.ir,چرم رامین,آذربایجان شرقی,تبریز,0,1405/05/13,1406/05/13,False
-109,,DomainListForMIMT,khanenarmafzar.ir,خانه نرم افزار,آذربایجان شرقی,تبریز,1,1405/05/13,1407/05/13,False
-110,,DomainListForMIMT,cardbazaar.ir,کارت بازار,تهران,اسلامشهر,1,1405/05/13,1407/05/13,False
-111,,DomainListForMIMT,atrishoo.ir,عطری شو,تهران,شهریار,0,1405/05/12,1406/05/12,False
-112,,DomainListForMIMT,vamospin.ir,واموسپین,تهران,تهران,1,1405/05/15,1407/05/15,False
-113,,DomainListForMIMT,iranfollowe.ir,ایران فالو,قم,قم,0,1405/05/12,1406/05/12,False
-114,,DomainListForMIMT,niumarket.ir,نیومارکت,تهران,تهران,0,1405/05/12,1406/05/12,False
-115,,DomainListForMIMT,shopiraniaan.ir,شاپ ایرانیان,گلستان,آزادشهر,0,1405/05/11,1406/05/11,False
-116,,DomainListForMIMT,servat-land.ir,ثروت لند,اصفهان,خمینی شهر,1,1405/05/11,1407/05/11,False
-117,,DomainListForMIMT,sadikala.ir,صدی کالا,فارس,مهر,0,1405/05/11,1406/05/11,False
-118,,DomainListForMIMT,runakdecor.ir,روناک دکور,تهران,پاکدشت,0,1405/05/11,1406/05/11,False
-119,,DomainListForMIMT,amlakify.ir,املاکیفای,کهگیلویه وبویراحمد,بویراحمد,1,1405/05/15,1407/05/15,False
-150,,DomainListForMIMTSuspend,samanehashrafzadeh.ir,سمانه اشرف زاده,تهران,تهران,1,1404/05/04,1406/05/04,False
-151,,DomainListForMIMTSuspend,kingpcstore.ir,کینگ پی سی,تهران,تهران,0,1404/11/20,1405/11/20,False
-152,,DomainListForMIMTSuspend,dysonland.com,دایسون لند,تهران,تهران,1,1404/11/20,1406/11/20,False
-153,,DomainListForMIMTSuspend,edukanonask.ir,مرکز آموزش و آزمون کانون,تهران,تهران,1,1404/11/18,1406/11/18,False
-154,,DomainListForMIMTSuspend,kavirnegaran.ir,تجارت الکترونیک کویرنگاران,تهران,تهران,1,1404/11/08,1406/11/08,False
-155,,DomainListForMIMTSuspend,sevinarshop.ir,فروشگاه سوینار,آذربایجان شرقی,اهر,0,1404/09/28,1405/09/28,False
-156,,DomainListForMIMTSuspend,navyy-mobile.ir,موبایل میروکیلی,یزد,یزد,0,1404/09/27,1405/09/27,False
-157,,DomainListForMIMTSuspend,lampinashop.com,لامپینادکور,تهران,تهران,0,1404/09/23,1405/09/23,False
-158,,DomainListForMIMTSuspend,manaflower.ir,مانافلاور,تهران,پردیس,0,1404/09/22,1405/09/22,False
-159,,DomainListForMIMTSuspend,lavazemkhanegi.click,لوازم خانگی,هرمزگان,رودان,1,1404/09/20,1406/09/20,False
-160,,DomainListForMIMTSuspend,msafarkhani.ir,منوچهر صفرخانی,تهران,تهران,0,1404/09/18,1405/09/18,False
-161,,DomainListForMIMTSuspend,tperfume.ir,تی پرفیوم,تهران,تهران,0,1404/08/15,1405/08/15,False
-162,,DomainListForMIMTSuspend,oldoz-homeshop.ir,الدوز هوم شاپ,تهران,تهران,0,1404/08/06,1405/08/06,False
-163,,DomainListForMIMTSuspend,mahdokhtshop.ir,ماه دخت شاپ,اصفهان,لنجان,0,1404/08/03,1405/08/03,False
-164,,DomainListForMIMTSuspend,googila.com,گوگیلا,,,1,,,False
-165,,DomainListForMIMTSuspend,sanayevilaeiazerbaijan.ir,صنایع ویلایی آذربایجان,آذربایجان شرقی,شبستر,0,1404/07/21,1405/07/21,False
-166,,DomainListForMIMTSuspend,xsoundify.ir,ایکس ساندیفای,تهران,تهران,0,1404/07/20,1405/07/20,False
-167,,DomainListForMIMTSuspend,enneatypes.ir,انیاتایپس,تهران,تهران,1,1402/08/22,1406/07/09,False
-168,,DomainListForMIMTSuspend,atlasdress.com,پوشاک اطلس,گلستان,گالیکش,1,1404/06/23,1406/06/23,False
-169,,DomainListForMIMTSuspend,islandsport.ir,جزیره ورزش,مازندران,ساری,1,1404/06/20,1406/06/20,False
-170,,DomainListForMIMTSuspend,packlavazem.com,صنایع تولیدی پک لوازم,تهران,تهران,0,1404/06/13,1405/06/13,True
-171,,DomainListForMIMTSuspend,irannetpos.com,ایران نت پز,تهران,تهران,1,1404/05/28,1405/05/28,True
-172,,DomainListForMIMTSuspend,taahaashop.ir,طاها شاپ,تهران,تهران,1,1404/05/27,1406/05/27,False
-173,,DomainListForMIMTSuspend,bodikivar.bodikivarbeauti.ir,بو دی کی وار,تهران,ری,1,1404/05/20,1406/05/20,False
-174,,DomainListForMIMTSuspend,phyto-shop.ir,فیتو شاپ,آذربایجان غربی,مهاباد,0,1404/05/18,1405/05/18,True
-175,,DomainListForMIMTSuspend,chinmarkazi.com,فروشگاه لوازم یدکی چین مرکزی,همدان,همدان,0,1404/05/15,1405/05/15,True
-176,,DomainListForMIMTSuspend,malekehmadar.ir,ملکه مادر,تهران,تهران,1,1404/05/14,1406/05/14,False
-177,,DomainListForMIMTSuspend,sabzmusicneyshabur.ir,سبزموزیک نیشابور,خراسان رضوی,فیروزه,0,1404/05/08,1405/05/08,True
-178,,DomainListForMIMTSuspend,wikixchange.com,ویکی اکسچنج,فارس,شیراز,1,1404/05/03,1406/05/03,False
-179,,DomainListForMIMTSuspend,behbahanitoys.ir,اسبابازی بهبهانی,بوشهر,دیلم,0,1404/05/02,1405/05/02,True
-180,,DomainListForMIMTSuspend,soghatyab.com,سوغات یاب,گیلان,رودبار,1,1404/05/27,1406/05/27,False
-181,,DomainListForMIMTSuspend,homecenter-iran.ir,هوم سنتر,تهران,تهران,0,1404/02/14,1405/02/14,True
-182,,DomainListForMIMTSuspend,blackkala2020.com,بلاک کالا,خوزستان,اهواز,1,1404/02/08,1406/02/08,False
-183,,DomainListForMIMTSuspend,podmad.shop,پادماد,قم,قم,0,1403/12/04,1404/12/03,True
-184,,DomainListForMIMTSuspend,iransport-store.ir,ایران اسپرت,خراسان جنوبی,بیرجند,1,1403/11/22,1405/11/21,False
-185,,DomainListForMIMTSuspend,mehrkhodro.co,مهرخودرو,گیلان,بندر انزلی,0,,,False
-186,,DomainListForMIMTSuspend,drabzar.shop,دکتر ابزار,همدان,همدان,0,1404/12/06,1406/05/04,False
-187,,DomainListForMIMTSuspend,ddogrm.com,قسطی,اصفهان,اصفهان,1,1405/04/30,1407/04/30,False
-188,,DomainListForMIMTSuspend,nextcode.ir,نکست کد,خوزستان,اهواز,1,1396/06/14,1406/10/12,False
-189,,DomainListForMIMTSuspend,academyphi.ir,آکادمی فی,خراسان رضوی,قوچان,1,1401/11/03,1407/04/24,False
-190,,DomainListForMIMTSuspend,epikala.ir,اپیکالا,هرمزگان,قشم,0,1404/07/10,1406/04/23,False
-191,,DomainListForMIMTSuspend,dodigrm.com,دودیگرام,تهران,شمیرانات,1,1405/04/22,1407/04/22,False
-192,,DomainListForMIMTSuspend,dudigrm.com,دودیگرام,تهران,شمیرانات,1,1405/04/22,1407/04/22,False
-193,,DomainListForMIMTSuspend,arasshine.com,ارس شاین,آذربایجان شرقی,جلفا,0,1404/06/18,1406/04/21,False
-194,,DomainListForMIMTSuspend,globaleuroasia.com,مارال تجارت آرارات,,,1,1405/04/18,1407/04/18,False
-195,,DomainListForMIMTSuspend,doodigrm.com,دودیگرام,اصفهان,اصفهان,1,1405/04/18,1407/04/18,False
-196,,DomainListForMIMTSuspend,doudigrm.com,دودیگرام,تهران,شمیرانات,1,1405/04/10,1407/04/10,False
-197,,DomainListForMIMTSuspend,ddogram.com,تکنوگرام,تهران,شمیرانات,1,1405/04/03,1407/04/07,False
-198,,DomainListForMIMTSuspend,doudigram.co,تکنوگرام,تهران,شمیرانات,1,1405/04/02,1407/04/02,False
-199,,DomainListForMIMTSuspend,doudigraam.com,دودیگرام,تهران,شمیرانات,1,1405/03/29,1407/03/29,False
-200,,DomainListForMIMTSuspend,pipart.ir,پی پارت نیکان,آذربایجان شرقی,تبریز,1,1404/10/09,1407/03/28,False
-201,,DomainListForMIMTSuspend,nayabdaruuo.shop,نایاب شاپ,آذربایجان شرقی,تبریز,0,1405/03/22,1406/03/22,False
-202,,DomainListForMIMTSuspend,kala59.com,لوازم خانگی کالا 59,,,1,1401/08/01,1407/03/16,False
-203,,DomainListForMIMTSuspend,aventco.ir,اونت,یزد,یزد,0,1405/03/16,1406/03/16,False
-204,,DomainListForMIMTSuspend,kiwimoviez.top,کیوی مویز,گیلان,خمام,0,1405/03/10,1406/03/10,False
-205,,DomainListForMIMTSuspend,balak-center.ir,بالاک سنتر,گیلان,رشت,0,1405/03/08,1406/03/08,False
-206,,DomainListForMIMTSuspend,nayabdaruo.shop,نایاب شاپ,آذربایجان شرقی,تبریز,0,1405/03/02,1406/03/02,False
-207,,DomainListForMIMTSuspend,bamomarket.com,بامومارکت,مرکزی,اراک,1,1400/09/15,1406/09/28,False
-208,,DomainListForMIMTSuspend,parsizteb.ir,پارسیزطب,تهران,تهران,1,1401/06/05,1407/02/25,False
-209,,DomainListForMIMTSuspend,zistyle.ir,زی استایل,گیلان,رشت,0,1404/02/18,1406/02/25,False
+type,domain_address,persian_name,province,city,rating,approve_date,expire_date,is_expiration_close
+DomainListForMIMT,romnemishe.ir,روم نمیشه,,,0,,,False
+DomainListForMIMT,baftiino.ir,مهدی,اصفهان,برخوار,0,1405/05/17,1406/05/17,False
+DomainListForMIMT,dordoonak.ir,دُردونک,مرکزی,محلات,0,1405/05/17,1406/05/17,False
+DomainListForMIMT,poshakehejrat.ir,پوشاک مردانه هجرت,تهران,تهران,0,1405/05/16,1406/05/16,False
+DomainListForMIMT,tibara.ir,تیبارا,تهران,تهران,0,1405/05/16,1406/05/16,False
+DomainListForMIMT,dokalam.com,دوکلام,خوزستان,دزفول,1,1405/05/16,1407/05/16,False
+DomainListForMIMT,sotitasviriava.ir,صوتی تصویری آوا,قم,قم,0,1405/05/16,1406/05/16,False
+DomainListForMIMT,vcnfc.com,کارت ویزیت دیجیتال,تهران,تهران,1,1405/05/16,1407/05/16,False
+DomainListForMIMT,ecusara.ir,ایسیو سرا,تهران,تهران,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,fasasmokemarket.ir,دود مارکت,فارس,فسا,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,ishowshop.ir,آیشو,خوزستان,اهواز,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,datispet.ir,داتیس پت,تهران,شهریار,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,kalamansi.ir,کالامانسی,اصفهان,اصفهان,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,nourgold.ir,نور گلد گالری,مازندران,بابلسر,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,paraphbeauty.ir,پاراف بیوتی,تهران,تهران,0,1405/05/15,1406/05/15,False
+DomainListForMIMT,lumage.ir,لوماژ,آذربایجان شرقی,تبریز,0,1405/05/13,1406/05/13,False
+DomainListForMIMT,ostadi-kharati.ir,خراطی استادی,اصفهان,خمینی شهر,0,1405/05/16,1406/05/16,False
+DomainListForMIMT,raminleather.ir,چرم رامین,آذربایجان شرقی,تبریز,0,1405/05/13,1406/05/13,False
+DomainListForMIMT,khanenarmafzar.ir,خانه نرم افزار,آذربایجان شرقی,تبریز,1,1405/05/13,1407/05/13,False
+DomainListForMIMT,cardbazaar.ir,کارت بازار,تهران,اسلامشهر,1,1405/05/13,1407/05/13,False
+DomainListForMIMT,atrishoo.ir,عطری شو,تهران,شهریار,0,1405/05/12,1406/05/12,False
+DomainListForMIMT,vamospin.ir,واموسپین,تهران,تهران,1,1405/05/15,1407/05/15,False
+DomainListForMIMT,iranfollowe.ir,ایران فالو,قم,قم,0,1405/05/12,1406/05/12,False
+DomainListForMIMT,niumarket.ir,نیومارکت,تهران,تهران,0,1405/05/12,1406/05/12,False
+DomainListForMIMT,shopiraniaan.ir,شاپ ایرانیان,گلستان,آزادشهر,0,1405/05/11,1406/05/11,False
+DomainListForMIMT,servat-land.ir,ثروت لند,اصفهان,خمینی شهر,1,1405/05/11,1407/05/11,False
+DomainListForMIMT,sadikala.ir,صدی کالا,فارس,مهر,0,1405/05/11,1406/05/11,False
+DomainListForMIMT,runakdecor.ir,روناک دکور,تهران,پاکدشت,0,1405/05/11,1406/05/11,False
+DomainListForMIMT,amlakify.ir,املاکیفای,کهگیلویه وبویراحمد,بویراحمد,1,1405/05/15,1407/05/15,False
+DomainListForMIMT,honarestanenoor.ir,هنرستان نور,خراسان شمالی,بجنورد,0,1405/05/11,1406/05/11,False
+DomainListForMIMTSuspend,samanehashrafzadeh.ir,سمانه اشرف زاده,تهران,تهران,1,1404/05/04,1406/05/04,False
+DomainListForMIMTSuspend,kingpcstore.ir,کینگ پی سی,تهران,تهران,0,1404/11/20,1405/11/20,False
+DomainListForMIMTSuspend,dysonland.com,دایسون لند,تهران,تهران,1,1404/11/20,1406/11/20,False
+DomainListForMIMTSuspend,edukanonask.ir,مرکز آموزش و آزمون کانون,تهران,تهران,1,1404/11/18,1406/11/18,False
+DomainListForMIMTSuspend,kavirnegaran.ir,تجارت الکترونیک کویرنگاران,تهران,تهران,1,1404/11/08,1406/11/08,False
+DomainListForMIMTSuspend,sevinarshop.ir,فروشگاه سوینار,آذربایجان شرقی,اهر,0,1404/09/28,1405/09/28,False
+DomainListForMIMTSuspend,navyy-mobile.ir,موبایل میروکیلی,یزد,یزد,0,1404/09/27,1405/09/27,False
+DomainListForMIMTSuspend,lampinashop.com,لامپینادکور,تهران,تهران,0,1404/09/23,1405/09/23,False
+DomainListForMIMTSuspend,manaflower.ir,مانافلاور,تهران,پردیس,0,1404/09/22,1405/09/22,False
+DomainListForMIMTSuspend,lavazemkhanegi.click,لوازم خانگی,هرمزگان,رودان,1,1404/09/20,1406/09/20,False
+DomainListForMIMTSuspend,msafarkhani.ir,منوچهر صفرخانی,تهران,تهران,0,1404/09/18,1405/09/18,False
+DomainListForMIMTSuspend,tperfume.ir,تی پرفیوم,تهران,تهران,0,1404/08/15,1405/08/15,False
+DomainListForMIMTSuspend,oldoz-homeshop.ir,الدوز هوم شاپ,تهران,تهران,0,1404/08/06,1405/08/06,False
+DomainListForMIMTSuspend,mahdokhtshop.ir,ماه دخت شاپ,اصفهان,لنجان,0,1404/08/03,1405/08/03,False
+DomainListForMIMTSuspend,googila.com,گوگیلا,,,1,,,False
+DomainListForMIMTSuspend,sanayevilaeiazerbaijan.ir,صنایع ویلایی آذربایجان,آذربایجان شرقی,شبستر,0,1404/07/21,1405/07/21,False
+DomainListForMIMTSuspend,xsoundify.ir,ایکس ساندیفای,تهران,تهران,0,1404/07/20,1405/07/20,False
+DomainListForMIMTSuspend,enneatypes.ir,انیاتایپس,تهران,تهران,1,1402/08/22,1406/07/09,False
+DomainListForMIMTSuspend,atlasdress.com,پوشاک اطلس,گلستان,گالیکش,1,1404/06/23,1406/06/23,False
+DomainListForMIMTSuspend,islandsport.ir,جزیره ورزش,مازندران,ساری,1,1404/06/20,1406/06/20,False
+DomainListForMIMTSuspend,packlavazem.com,صنایع تولیدی پک لوازم,تهران,تهران,0,1404/06/13,1405/06/13,True
+DomainListForMIMTSuspend,irannetpos.com,ایران نت پز,تهران,تهران,1,1404/05/28,1405/05/28,True
+DomainListForMIMTSuspend,taahaashop.ir,طاها شاپ,تهران,تهران,1,1404/05/27,1406/05/27,False
+DomainListForMIMTSuspend,bodikivar.bodikivarbeauti.ir,بو دی کی وار,تهران,ری,1,1404/05/20,1406/05/20,False
+DomainListForMIMTSuspend,phyto-shop.ir,فیتو شاپ,آذربایجان غربی,مهاباد,0,1404/05/18,1405/05/18,True
+DomainListForMIMTSuspend,chinmarkazi.com,فروشگاه لوازم یدکی چین مرکزی,همدان,همدان,0,1404/05/15,1405/05/15,True
+DomainListForMIMTSuspend,malekehmadar.ir,ملکه مادر,تهران,تهران,1,1404/05/14,1406/05/14,False
+DomainListForMIMTSuspend,sabzmusicneyshabur.ir,سبزموزیک نیشابور,خراسان رضوی,فیروزه,0,1404/05/08,1405/05/08,True
+DomainListForMIMTSuspend,wikixchange.com,ویکی اکسچنج,فارس,شیراز,1,1404/05/03,1406/05/03,False
+DomainListForMIMTSuspend,behbahanitoys.ir,اسبابازی بهبهانی,بوشهر,دیلم,0,1404/05/02,1405/05/02,True

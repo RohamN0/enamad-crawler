@@ -6,6 +6,15 @@ build-backend = "setuptools.build_meta"
 name = "enamad-crawler"
 version = "0.1.0"
 requires-python = ">=3.9"
+dependencies = [
+    "opencv-python",
+    "requests",
+    "ddddocr",
+    "pillow",
+    "pandas",
+    "numpy",
+    "scipy",
+]
 
 [tool.setuptools.packages.find]
 where = ["."]

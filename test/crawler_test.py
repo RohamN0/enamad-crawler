@@ -4,4 +4,4 @@ urls = ['https://enamad.ir/DomainListForMIMT', 'https://enamad.ir/DomainListForM
 enamad = EnamadCrawler(urls, page_numbers=4, time_sleep=10)
 
 df = enamad.run()
-df.to_csv('data.csv')
+df.to_csv('./data.csv')

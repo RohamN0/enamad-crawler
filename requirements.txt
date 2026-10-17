@@ -6,3 +6,4 @@ pillow
 pandas
 numpy
 scipy
+beautifulsoup4

@@ -1,0 +1,8 @@
+opencv-python
+jdatetime
+requests
+ddddocr
+pillow
+pandas
+numpy
+scipy

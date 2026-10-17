@@ -1,0 +1,9 @@
+pyproject.toml
+enamad_crawler.egg-info/PKG-INFO
+enamad_crawler.egg-info/SOURCES.txt
+enamad_crawler.egg-info/dependency_links.txt
+enamad_crawler.egg-info/requires.txt
+enamad_crawler.egg-info/top_level.txt
+src/__init__.py
+src/captcha_solver.py
+src/crawler.py

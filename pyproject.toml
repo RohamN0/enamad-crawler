@@ -7,7 +7,7 @@ name = "enamad-crawler"
 version = "0.1.0"
 requires-python = ">=3.9"
 dependencies = [
-    "opencv-python",
+    "opencv-python-headless",
     "jdatetime",
     "requests",
     "ddddocr",
@@ -16,6 +16,7 @@ dependencies = [
     "numpy",
     "scipy",
     "beautifulsoup4",
+    "flask",
 ]
 
 [tool.setuptools.packages.find]

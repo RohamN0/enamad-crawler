@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless
 jdatetime
 requests
 ddddocr
@@ -7,3 +7,4 @@ pandas
 numpy
 scipy
 beautifulsoup4
+flask

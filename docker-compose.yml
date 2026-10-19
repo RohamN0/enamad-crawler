@@ -1,0 +1,23 @@
+services:
+  enamad-crawler:
+    build: .
+    container_name: enamad-crawler
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - ENAMAD_API_KEY=${ENAMAD_API_KEY}
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Persist trustseal detail-page cache across container restarts.
+      - enamad-cache:/app/.cache/trustseal
+    # Optional healthcheck (curl must be available inside the image; it is).
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+volumes:
+  enamad-cache:
